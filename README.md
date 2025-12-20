@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi I’m Sarath Kumar Pothireddy👋 
 
-<!--
-**Sarath-kumar-Pothireddy/Sarath-kumar-pothireddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Fresher Data Analyst 
+  
+- 🎓 B.com (Computer Applications) graduate    
+- 📊 Skills: Python, SQL, Excel, Power BI  
+- 🌱 Currently learning: Data Analysis & Projects  
+- 🤝 Open to internships & entry-level roles
+- 📫 Portfolo/LinkedIn/Gmail: www.linkedin.com/in/sarath-kumar-pothireddy-0809a6371 | sarathkumarpothireddy4@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 
+- Customer Shopping Behavior Analysis - (Python-pandas, SQL, Power BI)
