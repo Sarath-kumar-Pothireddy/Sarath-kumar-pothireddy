@@ -10,5 +10,5 @@
 - 📫 Portfolo/LinkedIn/Gmail: www.linkedin.com/in/sarath-kumar-pothireddy-0809a6371 | sarathkumarpothireddy4@gmail.com
 
 ## Projects 
-- Customer Shopping Behavior Analysis - (Python-pandas, SQL, Power BI)
-- 
+- Customer shipping and Shopping Behavior Analysis
+- Optimized Equipment Utilization and Management for IVF Laboratory Operations
