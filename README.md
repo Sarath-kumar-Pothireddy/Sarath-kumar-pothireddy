@@ -1,7 +1,7 @@
 # Hi I’m Sarath Kumar Pothireddy👋 
 
 
-## Fresher Data Analyst 
+## Entry-Level Data Analyst 
   
 - 🎓 B.com (Computer Applications) graduate    
 - 📊 Skills: Python, SQL, Excel, Power BI  
